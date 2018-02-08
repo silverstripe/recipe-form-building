@@ -3,8 +3,7 @@
   "child-stability-inherit": true,
   "dependency-constraint": "exact",
   "vendors": [
-    "silverstripe",
-    "symbiote"
+    "silverstripe"
   ],
   "upgrade-only": [
     "silverstripe/recipe-cms"
