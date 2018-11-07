@@ -18,10 +18,7 @@
         "symbiote/silverstripe-queuedjobs": "if using gridfieldqueuedexport you can batch background jobs with this module"
     },
     "extra": {
-        "project-files": [],
-        "branch-alias": {
-            "dev-master": "1.x-dev"
-        }
+        "project-files": []
     },
     "config": {
         "process-timeout": 600
