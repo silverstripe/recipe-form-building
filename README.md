@@ -1,6 +1,6 @@
 ## SilverStripe form building recipe
 
-[![Build Status](https://travis-ci.org/silverstripe/recipe-form-building.svg?branch=master)](https://travis-ci.org/silverstripe/recipe-form-building)
+[![Build Status](https://api.travis-ci.com/silverstripe/recipe-form-building.svg?branch=1)](https://travis-ci.com/silverstripe/recipe-form-building)
 [![SilverStripe supported module](https://img.shields.io/badge/silverstripe-supported-0071C4.svg)](https://www.silverstripe.org/software/addons/silverstripe-commercially-supported-module-list/)
 
 This includes the following core SilverStripe and community modules:
