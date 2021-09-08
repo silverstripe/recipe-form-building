@@ -6,9 +6,9 @@
     "license": "BSD-3-Clause",
     "require": {
         "silverstripe/recipe-plugin": "^1",
-        "silverstripe/recipe-cms": "4.9.x-dev",
-        "silverstripe/segment-field": "2.4.x-dev",
-        "silverstripe/userforms": "5.10.x-dev"
+        "silverstripe/recipe-cms": "~4.9.0@rc",
+        "silverstripe/segment-field": "~2.4.0@rc",
+        "silverstripe/userforms": "~5.10.0@rc"
     },
     "require-dev": {
         "sminnee/phpunit": "^5.7"
