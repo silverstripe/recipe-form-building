@@ -1,7 +1,9 @@
 <phpunit bootstrap="vendor/silverstripe/cms/tests/bootstrap.php" colors="true">
-    <testsuite name="recipe-form-building">
-        <directory>vendor/silverstripe/segment-field/tests</directory>
-        <directory>vendor/silverstripe/userforms/tests</directory>
-        <directory>vendor/symbiote/silverstripe-queuedjobs/tests</directory>
-    </testsuite>
+    <testsuites>
+        <testsuite name="recipe-form-building">
+            <directory>vendor/silverstripe/segment-field/tests</directory>
+            <directory>vendor/silverstripe/userforms/tests</directory>
+            <directory>vendor/symbiote/silverstripe-queuedjobs/tests</directory>
+        </testsuite>
+    </testsuites>
 </phpunit>
