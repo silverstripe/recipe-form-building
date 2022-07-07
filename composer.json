@@ -12,7 +12,9 @@
         "silverstripe/userforms": "5.11.x-dev"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^9.5",
+        "silverstripe/gridfieldqueuedexport": "^2",
+        "symbiote/silverstripe-queuedjobs": "^4.9"
     },
     "suggest": {
         "silverstripe/gridfieldqueuedexport": "Export large data sets from your GridField in the SilverStripe CMS interface through async jobs",
