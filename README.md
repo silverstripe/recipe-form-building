@@ -15,12 +15,10 @@ This includes the following core Silverstripe and community modules:
 
 This can be either added to an existing project or used as a project base for creating a basic CWP install.
 
-## Get started
+## Installation
 
-You can create a project using Composer:
-
-```
-composer create-project silverstripe/recipe-form-building ./myproject ^1
+```sh
+composer create-project silverstripe/recipe-form-building ./myproject
 ```
 
 ## More information
