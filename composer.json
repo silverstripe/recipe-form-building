@@ -7,7 +7,7 @@
     "require": {
         "php": "^8.3",
         "silverstripe/recipe-plugin": "2.x-dev",
-        "silverstripe/recipe-cms": "6.x-dev",
+        "silverstripe/recipe-cms": "^6.2",
         "silverstripe/segment-field": "4.x-dev",
         "silverstripe/userforms": "7.x-dev"
     },
